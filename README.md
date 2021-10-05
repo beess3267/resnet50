@@ -213,4 +213,4 @@ for i, img in enumerate(img_list):
     ax.imshow(img)
 ```
 - 테스트 이미지를 합습된 모델로 분류한 결과입니다. 약간의 오차가 있긴 하지만 잘 작동합니다.
-!(./img/capture.png)
+![ex_capture](./img/capture.png)
